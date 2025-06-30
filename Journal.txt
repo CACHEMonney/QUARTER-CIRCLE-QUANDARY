@@ -1,0 +1,13 @@
+Journal
+
+Beginnings inspired by the current running 'Sajam Slam' competition and my love of fighting games I was inspired to make a project that incorporates this and tech functionality. I wanted to make a fight pad as a lifetime controller/pad play I was starting to find issues with execution but I could find any form fitting to me as I am left handed I also wanted to create a tool with wider functionality like also being able to play Tetris thus...
+
+Quarter circle quandary was born
+
+I started the project creating a schematic for my PCB then used a physical drawing of how my hand laid on a piece of paper to get ideas for the measurements of the frame as this was nee to me a lot of time was spent creating and reworking the PCB to make it both ergonomic and functional
+
+Build a frame around the PCB wasn't too bad in retrospect but outdated drivers made the initial use of fusion 360 impossible but once resolved all was well
+
+The Biggest roadblock of the project was creating the lid for the project due to the 'ergonomic' placement of the key it was near impossible to model on keyboard-layout-editor and I did not know this thus after many hours of tinkering I realised the best method was importing the model of the PCB and using the holes for buttons to make coincident squares that the keyhole cold be mapped to
+
+When creating the firmware I look around for multiple examples of what could be done and upon the realisation that I wanted access to all keys I need key chording a new feature of kmk in order to switch between layers and am likely in implement more layers with further use
