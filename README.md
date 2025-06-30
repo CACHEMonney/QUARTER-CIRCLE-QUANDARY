@@ -17,6 +17,8 @@ PAD
 PCB
 ![PCB PIC](https://github.com/user-attachments/assets/51d3ad40-8dc6-4b51-b7a6-b055d7da6d13)
 ![PCB BLUE](https://github.com/user-attachments/assets/18d46d2c-237d-49a5-9c78-3e0932c84026)
+![Screenshot 2025-06-30 013927](https://github.com/user-attachments/assets/6ed49cb0-605f-4780-8ed0-fe46ea0f3aa4)
+
 
 FRAME
 ![FRAME](https://github.com/user-attachments/assets/7135fda2-7601-47d5-ba03-338d32ede929)
