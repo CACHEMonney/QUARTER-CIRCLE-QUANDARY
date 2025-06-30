@@ -1,5 +1,5 @@
 # QUARTER-CIRCLE-QUANDARY
-Hack project that can be used for editing shortcut using the ergonomics of a hitbox adapting for left-handedness *(it is also a hitbox)
+Hackpad project that can be used for editing shortcuts and programing using the ergonomics of a hitbox adapting for left-handedness to suit all your fighting game needs
 
 By smashing all keys you should be able to switche between WORK and PLAY
 
