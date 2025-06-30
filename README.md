@@ -24,6 +24,7 @@ FRAME
 ![FRAME](https://github.com/user-attachments/assets/7135fda2-7601-47d5-ba03-338d32ede929)
 
 BOM:
+
 XIAO RP2040 (1)
 
 SK6812 MINI-E LEDs (2)
