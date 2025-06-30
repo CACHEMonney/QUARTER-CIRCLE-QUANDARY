@@ -25,7 +25,11 @@ FRAME
 
 BOM:
 XIAO RP2040 (1)
+
 SK6812 MINI-E LEDs (2)
+
 MX-Style switches (10)
+
 M3x16mm screws (4)
+
 Case print (top and bottom)
