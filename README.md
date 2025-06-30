@@ -29,12 +29,20 @@ FRAME
 
 BOM:
 
-XIAO RP2040 (1)
+XIAO RP2040 (1) *https://www.aliexpress.com/item/1005003682505451.html?spm=a2g0o.cart.0.0.6eaf38da3X1JOq&mp=1
 
-SK6812 MINI-E LEDs (2)
+SK6812 MINI-E LEDs (2) *https://www.aliexpress.com/item/1005007863635868.html?spm=a2g0o.cart.0.0.6eaf38da3X1JOq&mp=1
 
-MX-Style switches (10)
+MX-Style switches (10) *https://www.aliexpress.com/item/1005002971598717.html?spm=a2g0o.cart.0.0.6eaf38da3X1JOq&mp=1
 
-M3x16mm screws (4)
+M3x16mm screws (4) *https://www.aliexpress.com/w/wholesale-M3x16mm-screws.html?spm=a2g0o.detail.search.0
 
-Case print (top and bottom)
+  Subtotal $20.48
+
+PCB *https://jlcpcb.com/
+
+  Subtotal $18.83
+
+Case print (top and bottom) *done by my friend
+
+Total $39.31
