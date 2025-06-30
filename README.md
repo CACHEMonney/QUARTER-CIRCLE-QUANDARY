@@ -1,5 +1,9 @@
 # QUARTER-CIRCLE-QUANDARY
-Hackpad project that can be used for editing shortcuts and programing using the ergonomics of a hitbox adapting for left-handedness to suit all your fighting game needs
+Have you ever wanted perfect motion inputs?
+
+Do you want to make programming even easier?
+
+Well do I have the project form you, the quarter circle quandary hopes to take you from wasting away in pools to being Daigo. A project that can be used for editing shortcuts and programming using the ergonomics of a hitbox adapting for left-handedness to suit all your fighting game needs as well as being useful in daily computer activity with multiple layers of inputs for different usages.
 
 By smashing all keys you should be able to switche between WORK and PLAY
 
