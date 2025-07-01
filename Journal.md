@@ -1,5 +1,9 @@
-Journal
-
+---
+title: "QUARTER-CIRCLE-QUANDARY"
+author: "Jayden M."
+description: "Describe your project in a short sentence!"
+created_at: "2025-6-30"
+---
 Beginnings inspired by the current running 'Sajam Slam' competition and my love of fighting games I was inspired to make a project that incorporates this and tech functionality. I wanted to make a fight pad as a lifetime controller/pad play I was starting to find issues with execution but I could find any form fitting to me as I am left handed I also wanted to create a tool with wider functionality like also being able to play Tetris thus...
 
 Quarter Circle Quandary was born
