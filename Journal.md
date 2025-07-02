@@ -5,7 +5,7 @@ description: "Work Hard Play Hard a lefthanded fightpad project that also optimi
 created_at: "2025-6-30"
 ---
 
-#Project time ~20hr
+#Project time ~20hrs
 
 # 27/06/25 PLANNING
 
@@ -13,7 +13,7 @@ created_at: "2025-6-30"
 
 ![Screenshot 2025-06-19 213155](https://github.com/user-attachments/assets/0116eae3-33b7-460c-96bb-1feab6ba65ff)
 
-**~1hr**
+**~1hrs**
 
 Quarter Circle Quandary was born
 
@@ -32,7 +32,7 @@ Quarter Circle Quandary was born
 
 ![Screenshot 2025-07-02 152529](https://github.com/user-attachments/assets/223408e9-c78b-4533-b336-7ec44a315abb)
 
-**~4hr**
+**~4hrs**
 
 # 28/06/25 Frame + Troubleshooting 
 
@@ -58,7 +58,7 @@ Quarter Circle Quandary was born
 
 [The main problem i was finding in keyboard-layout-editor was that the size and distances between increments of movement did not go to a high enough resolution to match that of my project so i kept getting things that were kinda close but not really usable]
 
-**~8hr**
+**~8hrs**
 
 # 29/06/25 Firmware
 
@@ -68,4 +68,4 @@ Quarter Circle Quandary was born
 
 ![Screenshot 2025-07-02 155104](https://github.com/user-attachments/assets/1184bcbf-35d3-4568-8700-49422d5f771a)
 
-**~2hr**
+**~2hrs**
